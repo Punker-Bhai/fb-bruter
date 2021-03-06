@@ -29,6 +29,6 @@ Enter Email of victim : (Victims Email address)
 Enter password file   : (You can use our default Password list)
 ```
 *****Default password lists are*****
-* `passwords.lst` and(&) passward.txt
+* `passwords.lst` and(&) `passward.txt`
 
 Tested on `Ubuntu 18.04` `Termux` `Kali linux2021.1` `Windows10`
