@@ -18,7 +18,7 @@ apt install git -y
 apt install python -y
 pip install --upgrade pip
 apt install python3-pip
-git clone https://github.com/Punker-Bhai/fb-bruter.git
+git clone https://github.com/hackerspunk/fb-bruter.git
 cd fb-bruter
 python3 bruter.py
 ```
